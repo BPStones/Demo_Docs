@@ -23,7 +23,7 @@ Also think about and research what the user will need to know. Look at:
 
 Of course, if it's a new product, you won't have access to this information, so instead you will have to:
 
-- obtain a working rpototype of the product; and
+- obtain a working prototype of the product; and
 - gather a focus group of customers.
 
 **Visuals**
@@ -34,7 +34,7 @@ Visuals *must* be useful, otherwise do not put them in. The three main types for
 - Flowchart showing the steps for a procedure;
 - Annotated Screenshot
 
-The Annotataed Screenshot is probably the most used visuals in a guide, but it is important to have consistent annotations across all the screenshots. 
+The Annotated Screenshot is probably the most used visuals in a guide, but it is important to have consistent annotations across all the screenshots. 
 
 *For Example*
 *Using an Aroow in one screenshot to highlight a button and a Circle in the next may confuse readers.*
@@ -49,12 +49,12 @@ The Annotataed Screenshot is probably the most used visuals in a guide, but it i
 - target audience; and
 - what type of instructions the guide provides (if it contains both *MUST* and *MAY* sections).
 
-3. Use Headings that are useful, specific and simple. They shoud:
+3. Use Headings that are useful, specific and simple. They should:
 
 - contain a verb;
 - start with a question word;
 - express a full idea rather than the truncated form;
-- not repretitively start with an article (A, An, or The)
+- not repetitively start with an article (A, An, or The)
 
 4. Always write in plain language which means to combine both simple and accurate words with technical language.
 
