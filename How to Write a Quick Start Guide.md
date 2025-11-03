@@ -1,0 +1,77 @@
+﻿
+The following is a summary of what I learned on the Linkedin "Technical Writing: Quick Start Guides" course.
+
+## How to write a Quickstart Guide
+
+A Quickstart Guide can come in two forms
+
+- a Concept Guide; or
+- a Procedural guide.
+
+Concept Guides are guides that help you learn about the the product. They are often factual and do not contain action steps.
+
+Procedural Guides on the other hand provide either steps that you 'MUST' follow or 'MAY' follow in order to complete an action. These two styles can also be combined in one guide, but it is important that they have distinct sections to avoid confusion.
+
+**Where to get your information**
+
+When creating a guide, the first step to think about is where to get your information for the guide.
+
+A great tip is to review the Table of Contents of the User Manual and to choose those elements which the User will need to start using the product quickly. Then go to each section, and pull out the relevant information.
+
+Also think about and research what the user will need to know. Look at:
+
+- the most read FAQs/Knowledge-Based articles on your company's site;
+- the User Community Forums and track what is being discussed;
+- the most frequently asked questions in your customer services department.
+
+Of course, if it's a new product, you won't have access to this information, so instead you will have to:
+
+- obtain a working rpototype of the product; and
+- gather a focus group of customers.
+
+**Visuals**
+
+Visuals *must* be useful, otherwise do not put them in. The three main types for a guide are:
+
+- Drawing and Exploded Drawing such as an IKEA set of instructions;
+- Flowchart showing the steps for a procedure;
+- Annotated Screenshot
+
+The Annotataed Screenshot is probably the most used visuals in a guide, but it is important to have consistent annotations across all the screenshots. 
+
+*For Example*
+*Using an Arrow in one screenshot to highlight a button and a Circle in the next may confuse readers.*
+
+**Style**
+
+ 1. Always use second person pronouns (You / Your) and the Imperative. Never call the User "the User".
+
+2. Explain the outcome of the guide or section at the beginning. Include:
+
+- what you will be able to do afterwards;
+- target audience; and
+- what type of instructions the guide provides (if it contains both *MUST* and *MAY* sections).
+
+3. Use Headings that are useful, specific and simple. They shoud:
+
+- contain a verb;
+- start with a question word;
+- express a full idea rather than the truncated form;
+- not repretitively start with an article (A, An, or The).
+
+4. Always write in plain language which means to combine both simple and accurate words with technical language.
+
+5. Format the guide consistently. Choose a Font, text size, colour etc and stick to it throughout including table layouts.
+
+
+
+
+
+
+
+
+
+
+
+
+
